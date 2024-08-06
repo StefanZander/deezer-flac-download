@@ -2,7 +2,7 @@
 
 A program to freely download Deezer FLAC files. Tested and working in October 2022.
 Verified to produce the same audio as other downloaders being used for files present
-on the internet. A paid Deezer account is required.
+on the internet. **A paid Deezer account is required.**
 
 The program also downloads cover art, and embeds it, as well as metadata tags, in
 the FLAC files.
